@@ -40,6 +40,12 @@ Play the game
   ./so_long ./maps/select_one_map.ber
 ```
 
+Example
+
+```bash
+  ./so_long ./maps/maze.ber
+```
+
 
 ## Features
 
