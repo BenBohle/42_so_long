@@ -1,3 +1,7 @@
+
+![Logo](textures/utilys/Logo.png)
+
+
 # 42 So Long
 
 so_long is a graphical Project of the 42 School written in C.
@@ -51,4 +55,11 @@ Play the game
 With the Online Map Maker written in vanilla JS, html & vanilla css you can create your own custom maps and export them!
 
 [Online Map Maker](https://github.com/BenBohle/solong_map_maker_42)
+
+
+## Screenshots
+
+![Map Example 1](textures/utilys/map1.png)
+![Map Example 1](textures/utilys/map3.png)
+![Map Example 1](textures/utilys/map2.png)
 
